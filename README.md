@@ -1,10 +1,10 @@
 # Curso de Python - Curso em Vídeo 🎥🐍
 
-Este repositório documenta minha jornada de aprendizado no curso de Python do professor Gustavo Guanabara, disponível no YouTube através do canal **Curso em Vídeo**. O curso é estruturado em três mundos, totalizando **114 exercícios**, e aborda conceitos fundamentais, intermediários e avançados da linguagem Python.
+Este repositório documenta minha jornada de aprendizado no curso de Python do professor Gustavo Guanabara, disponível no YouTube através do canal **Curso em Vídeo**. O curso é estruturado em três mundos, totalizando **114 exercícios**, e aborda conceitos fundamentais, intermediários e avançados da linguagem Python. Além disso, estou fazendo exercícios extras passados pelo professor Doutor Cícero Garrozi e do livro Introdução à Programação com Python - Algoritmos e lógica de programação para iniciantes do Nilo Menezes.
 
 ---
 
-## 📚 Estrutura do Curso
+## 📚 Estrutura do Curso em Vídeo
 
 ### 🌍 **Mundo 1 - Fundamentos**
 - **Introdução à Linguagem Python**: Tipos de dados, variáveis, operadores, e conceitos básicos.
