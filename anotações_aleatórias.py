@@ -1,4 +1,6 @@
-'''Hoje é o quinto dia da Semana do Zero ao Programador.
-Fiz 2 agendamentos para hoje (13h e 14h)'''
+'''Ontem foi oficialmente a abertura de carrinho da DEV em Dobro'''
 
-a + b = 2
+Fiz boas vendas!
+
+v = 1999
+print(v * 18)
