@@ -1,15 +1,10 @@
-'''
-Tarefa: Crie uma função recursiva que execute a operação de potencialização.
-Entrada: 2 3
-Saída: 8
-'''
+n = 4
+s = '2 4 3'
 
-def potencia(base, exp):
-    if exp == 0:
-        return 1
-    elif exp == 1:
-        return base
+passo = 0
+while n != passo:
+    if str(n-passo) in s:
+        passo += 1
     else:
-        return base * potencia(base, exp-1)
-
-print(potencia(2, 3))
+        print((n-passo))
+        break
