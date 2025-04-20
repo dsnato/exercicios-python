@@ -1,10 +1,9 @@
-n = 4
-s = '2 4 3'
+import time
 
-passo = 0
-while n != passo:
-    if str(n-passo) in s:
-        passo += 1
-    else:
-        print((n-passo))
-        break
+time_start = time.time()
+
+# conteudo da funcao
+
+time_end = time.time()
+
+print((time_end - time_start) * 1000)
