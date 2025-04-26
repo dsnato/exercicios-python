@@ -1,1 +1,1 @@
-Finalizando a semana bem demais!
+Hoje o fds tá bem tranquilo sem muita demanda da DEV
