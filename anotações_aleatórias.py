@@ -1,1 +1,1 @@
-Semana fluindo bem e teve mais uma venda no DevQuest. Passei de 70.
+Hoje a coisa começou a apavorar no curso de BSI. De fato tem muita coisa já para estudar e preciso colocar em dia!
