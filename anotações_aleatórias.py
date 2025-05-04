@@ -1,1 +1,1 @@
-Hoje teve aula de Fundamentos de Elementos Computacionais na sexta-feira que é ponto facultativo.
+FDS só relax com minha filha linda <3
