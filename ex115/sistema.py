@@ -1,10 +1,17 @@
 from ex115.lib.interface import *
+from ex115.lib.arquivo import *
 from time import sleep
+
+arq = 'cursoemvideo.txt'
+
+if not arquivoExiste(arq):
+    criarArquivo(arq)
 
 while True:
     resposta = menu(['Ver pessoas cadastradas', 'Cadastrar nova pessoa', 'Sair do sistema'])
     if resposta == 1:
-        cabeçalho('\033[36mOpção 1\033[m')
+        #Opção de listar o conteúdo de um arquivo!
+        lerArquivo(arq)
     elif resposta == 2:
         cabeçalho('\033[36mOpção 2\033[m')
     elif resposta == 3:
