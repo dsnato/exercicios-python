@@ -1,5 +1,3 @@
-Gustavo;41
-Ana;22
-Pedro;35
-Paulo;95
-José;55
+Cilene; 26
+Renato; 32
+Cristina; 61
