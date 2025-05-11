@@ -1,1 +1,1 @@
-Sextou!
+Domingou com exercício de FPC!
