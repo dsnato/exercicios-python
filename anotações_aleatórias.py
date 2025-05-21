@@ -1,1 +1,1 @@
-Ontem o dia foi ótimo, encerrei um ciclo pessoal e iniciei outro #segredo.
+Dia amanheceu com muita chuva e sem aula!
