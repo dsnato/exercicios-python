@@ -1,1 +1,1 @@
-Dia amanheceu com muita chuva e sem aula!
+Tudo se renova muito rápido!
