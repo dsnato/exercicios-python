@@ -1,1 +1,1 @@
-Tudo se renova muito rápido!
+FDS off! Voltei com tudo hoje.
