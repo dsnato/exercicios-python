@@ -1,1 +1,1 @@
-Dia positivo, revisão de FPC e novos leads no funil. #dev #tdr
+Hoje iniciou o projeto 3. Fazer Bit, Register, RAM e PC.
