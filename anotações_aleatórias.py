@@ -1,1 +1,1 @@
-Domingo com muitos estudos! Semana de prova está chegando.
+Foco na Prova de Cícero (Quinta)!
