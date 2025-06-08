@@ -1,1 +1,1 @@
-Sabadou!
+Domingou, hoje tem!
