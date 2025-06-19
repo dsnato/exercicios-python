@@ -1,1 +1,1 @@
-Quartou! Sem aula amanhã. Esquece!
+Feriado meu amor.
