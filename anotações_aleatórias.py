@@ -1,1 +1,1 @@
-Sextou!!
+Foto nova no perfil.
