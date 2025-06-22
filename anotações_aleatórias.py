@@ -1,1 +1,1 @@
-Foto nova no perfil.
+Dia de estudar muito algoritmo genético.
