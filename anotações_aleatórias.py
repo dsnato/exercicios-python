@@ -1,1 +1,1 @@
-Dia de estudar muito algoritmo genético.
+Bora pra mais uma semana!
