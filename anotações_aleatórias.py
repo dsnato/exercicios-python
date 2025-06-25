@@ -1,1 +1,1 @@
-Bora pra mais uma semana!
+Quartou!
