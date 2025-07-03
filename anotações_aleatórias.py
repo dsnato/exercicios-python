@@ -1,1 +1,1 @@
-Reunião com Professor sobre o PIBIC.
+Projeto 4 e 5 de Elementos de Sistemas Computacionais.
