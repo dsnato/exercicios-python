@@ -1,1 +1,1 @@
-Introdução ao Projeto 6 de Elementos de Sistemas Computacionais.
+Planejamento da semana.
