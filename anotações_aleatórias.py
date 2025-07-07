@@ -1,1 +1,1 @@
-Revisão de Sistemas de Informação.
+Atualização do planejamento da semana.
