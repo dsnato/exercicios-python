@@ -1,1 +1,1 @@
-Planejamento da semana.
+Revisão de Sistemas de Informação.
