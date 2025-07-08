@@ -1,1 +1,1 @@
-Atualização do planejamento da semana.
+Lançamento Downsell.
