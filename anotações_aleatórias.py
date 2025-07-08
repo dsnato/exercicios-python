@@ -1,1 +1,1 @@
-Aula sobre Algoritmo de Monte Carlo.
+Leitura do Capítulo 10 sobre Classes e Objetos.
