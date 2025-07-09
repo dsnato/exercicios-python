@@ -1,1 +1,1 @@
-Plantão 09h, 13h e 20h.
+Tirar dúvida com Gama e resolver ficha de Combinatória.
