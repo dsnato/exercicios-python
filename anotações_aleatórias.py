@@ -1,1 +1,1 @@
-Aula com Cícero sobre projeto PISI 2.
+Escolha dos AG's para utilizar no PISI 2.
