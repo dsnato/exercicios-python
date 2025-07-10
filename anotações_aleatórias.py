@@ -1,1 +1,1 @@
-Tirar dúvida com Gama e resolver ficha de Combinatória.
+Atividade de FPC sobre Ordenação e OO.
