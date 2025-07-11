@@ -1,1 +1,1 @@
-Anotações - Aula Unidade 06 - Elementos de Sistemas Computacionais
+Finalização - Ficha de Análise Combinatória.
