@@ -1,1 +1,1 @@
-Finalização - Ficha de Análise Combinatória.
+Projeto final de ESC - Unidade 6.
