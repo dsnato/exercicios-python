@@ -1,1 +1,3 @@
-Projeto final de ESC - Unidade 6.
+https://www.youtube.com/live/Q2FSI2vdnT4
+
+INTELIGÊNCIA ARTIFICIAL E SEGURANÇA CIBERNÉTICA TRANSFORMANDO OS NEGÓCIOS
