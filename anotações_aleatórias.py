@@ -1,3 +1,1 @@
-https://www.youtube.com/live/Q2FSI2vdnT4
-
-INTELIGÊNCIA ARTIFICIAL E SEGURANÇA CIBERNÉTICA TRANSFORMANDO OS NEGÓCIOS
+2/4 Introdução à Redes Neurais
