@@ -1,3 +1,1 @@
-Reformulação dos códigos da Heurística escolhida para PISI 2.
-
-
+Estudos de Tabela Hash, Ordenação e POO.
