@@ -1,1 +1,3 @@
-4/4 Introdução à Redes Neurais
+Reformulação dos códigos da Heurística escolhida para PISI 2.
+
+
