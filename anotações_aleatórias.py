@@ -1,1 +1,1 @@
-Entrega do artigo PISI 2 sobre AGs
+Revisão para a final FPC 1.
