@@ -1,1 +1,1 @@
-Finalização do artigo PISI 2 sobre AGs
+Entrega do artigo PISI 2 sobre AGs
