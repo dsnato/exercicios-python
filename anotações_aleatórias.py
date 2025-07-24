@@ -1,1 +1,1 @@
-Preparar roteiro e Gravar projeto 6 de ESC.
+Ver vídeos de Gama - Simulação de Monte Carlo.
