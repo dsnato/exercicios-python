@@ -1,1 +1,1 @@
-Revisão para a final FPC 1.
+Prova de FPC 1 foi ótima 9/10.
