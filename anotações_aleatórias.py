@@ -1,1 +1,1 @@
-Projeto ESC entregue.
+Estudos de SQL com Python.
