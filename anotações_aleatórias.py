@@ -1,1 +1,1 @@
-Revisando Eletivas e elaborando estratégia de estudos para os próximos semestres.
+2/5 Curso: Introdução à Inteligência Artificial (IDP).
