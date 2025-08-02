@@ -1,1 +1,1 @@
-5/5 Curso: Introdução à Inteligência Artificial (IDP).
+1/5 Curso: Programação Python em Data Science (IDP).
