@@ -1,1 +1,1 @@
-5/5 Curso: Programação Python em Data Science (IDP).
+Hackathon B3 no Porto Digital
