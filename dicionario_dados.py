@@ -7,4 +7,3 @@ dicionário = {
 print(dicionário)
 print(type(dicionário))
 print(dicionário['nome'])
-
