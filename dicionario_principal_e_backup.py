@@ -28,3 +28,4 @@ while True:
 print("\nConteúdo do backup:")
 for k, v in backup.items():
     print(f"{k}: {v}")
+
